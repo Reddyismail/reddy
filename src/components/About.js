@@ -6,7 +6,7 @@ const About = () => {
             <div className="container">
               <div className="row">
                   <div className="col_6 p_25">
-                  <h3>About us</h3>
+                  <h3>Abot us</h3>
                 <h1>WELCOME TO MAESTRO PIZZINI</h1>
                 <p>This is the normal family, and it has two sister families so far, Alternates and Subrayada.
                 sister families so far, Alternates and Subrayada.sister families so far, Alternates and Subrayada.sister families so far, Alternates and Subrayada. 
